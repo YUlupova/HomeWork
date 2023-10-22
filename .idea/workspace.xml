@@ -20,6 +20,12 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -136,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697991793871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Создан пакет ru.courses.main, в котором расположен класс Main с точкой входа в исполнение программы (public static void main)">
+      <option name="closed" value="true" />
+      <created>1697991981000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697991981000</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создан пакет ru.courses.main, в котором расположен класс Main с точкой входа в исполнение программы (public static void main)">
+      <option name="closed" value="true" />
+      <created>1697992039863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697992039863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
